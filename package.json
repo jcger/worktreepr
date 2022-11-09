@@ -1,0 +1,14 @@
+{
+  "name": "worktreepr",
+  "version": "1.0.2",
+  "description": "Easy PR fetch with github worktrees",
+  "bin": {
+    "worktreepr": "./scripts/fetch-pull-request.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julian Gernun (https://github.com/jcger)",
+  "license": "ISC"
+}
