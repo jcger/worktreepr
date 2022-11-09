@@ -1,6 +1,6 @@
 {
   "name": "worktreepr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Easy PR fetch with github worktrees",
   "bin": {
     "worktreepr": "./scripts/fetch-pull-request.mjs"
@@ -15,5 +15,9 @@
     "request"
   ],
   "author": "Julian Gernun (https://github.com/jcger)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcger/worktreepr"
+  }
 }
