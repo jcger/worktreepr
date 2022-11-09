@@ -8,7 +8,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "github",
+    "worktrees",
+    "pull",
+    "request"
+  ],
   "author": "Julian Gernun (https://github.com/jcger)",
   "license": "ISC"
 }
