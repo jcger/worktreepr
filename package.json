@@ -1,6 +1,6 @@
 {
   "name": "worktreepr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy PR fetch with github worktrees",
   "bin": {
     "worktreepr": "./scripts/fetch-pull-request.mjs"
