@@ -1,3 +1,5 @@
+> ⚠️⚠️⚠️⚠️ Feel free to use this repo, but as long as gh-cli doesn't work with worktrees I'd recommend an extension like https://github.com/dlvhdr/gh-dash 
+
 # Git Worktree PR
 
 ## Description
